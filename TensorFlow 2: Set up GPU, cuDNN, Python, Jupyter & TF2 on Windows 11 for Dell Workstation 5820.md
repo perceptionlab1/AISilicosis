@@ -1,3 +1,4 @@
+![tf](https://github.com/perceptionlab1/AISilicosis/assets/141559457/8d9a3a1e-d2ee-42cf-9b16-f21908c44856)
 
 # Set up GPU, cuDNN, Python, Jupyter & TF2 on Windows 11 for Dell Workstation 5820
 
