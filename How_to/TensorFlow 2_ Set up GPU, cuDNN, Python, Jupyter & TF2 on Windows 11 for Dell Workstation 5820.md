@@ -1,27 +1,4 @@
-![Untitled](https://github.com/perceptionlab1/AISilicosis/assets/141559457/f1a72651-fd10-4fe0-bfc6-dd07c7825886)
-![Uploading Untitled 17.png…]()
-![Uploading Untitled 16.png…]()
-![Uploading Untitled 15.png…]()
-![Uploading Untitled 14.png…]()
-![Uploading Untitled 13.png…]()
-![Uploading Untitled 12.png…]()
-![Uploading Untitled 11.png…]()
-![Uploading Untitled 10.png…]()
-![Uploading Untitled 9.png…]()
-![Uploading Untitled 8.png…]()
-![Untitled 7](https://github.com/perceptionlab1/AISilicosis/assets/141559457/be97d05c-d98a-417a-b537-c51607ce3573)
-![Untitled 6](https://github.com/perceptionlab1/AISilicosis/assets/141559457/8d034c25-dd6a-4e24-bc64-5a98aae8d582)
-![Uploading Untitled 5.png…]()
-![Uploading Untitled 4.png…]()
-![Uploading Untitled 3.png…]()
-![Uploading Untitled 2.png…]()
-![Uploading Untitled 1.png…]()
-![Uploading Untitled 22.png…]()
-![Uploading Untitled 21.png…]()
-![Uploading Untitled 20.png…]()
-![Uploading Untitled 19.png…]()
-![Uploading Untitled 18.png…]()
-![Uploading tf.png…]()
+
 
 # Set up GPU, cuDNN, Python, Jupyter & TF2 on Windows 11 for Dell Workstation 5820
 
