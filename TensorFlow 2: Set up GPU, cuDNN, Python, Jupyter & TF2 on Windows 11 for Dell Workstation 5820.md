@@ -1,7 +1,5 @@
-# AISilicosis
-This is a repository for silicosis project!
 
-# TensorFlow 2: Set up GPU, cuDNN, Python, Jupyter & TF2 on Windows 11 for Dell Workstation 5820
+# Set up GPU, cuDNN, Python, Jupyter & TF2 on Windows 11 for Dell Workstation 5820
 
 ## Check if you have all the components for GPU to talk to Python on Windows 11 Home Edition and Dell Precision Workstation 5820
 
